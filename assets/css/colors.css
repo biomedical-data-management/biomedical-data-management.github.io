@@ -2,6 +2,7 @@
     --color-background: rgb(255, 255, 255);
     --color-backplate: rgb(249, 249, 249);
     --color-foreground: rgb(36, 36, 36);
+    /* --color-foreground: rgb(8, 37, 84); */
     --color-highlight: rgb(125, 125, 125);
     --color-shadow: rgba(0, 0, 0, 0.15);
     --color-soft: rgb(65, 65, 65);
