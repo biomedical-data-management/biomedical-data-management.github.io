@@ -1,7 +1,8 @@
 ---
 layout: list
-title: "BioDM: Biomedical Data Management"
+title: Biomedical Data Management
 subtitle: Workshop at VLDB 2026
+thumbnail: images/logo.png
 summary: |
     Understanding the human body and providing effective personalized healthcare is increasingly dependent
     on our ability to process vast heterogeneous datasets. However, practitioners are often overwhelmed due to
@@ -14,7 +15,6 @@ summary: |
 #   name: ease.ml
 #   alternateName: [ "easeml", "ease ml" ]
 #   logo: https://ease.ml/images/easeml-logo.png
-thumbnail: images/easeml-logo.png
 sections:
     # - title: Presenters
     #   partial: grid

@@ -2,12 +2,10 @@
 
 body {
     font-family: "Gowun Batang", serif;
-    font-weight: 400;
 }
 
 h1, h2, h3, body>header>div>span {
     font-family: "Baloo Paaji 2", sans-serif;
-    font-weight: 1000;
 }
 
 code {
