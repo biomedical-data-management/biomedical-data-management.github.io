@@ -4,12 +4,6 @@ title: Biomedical Data Management
 subtitle: Workshop at VLDB 2026
 thumbnail: images/logo.png
 summary: |
-    Understanding the human body and providing effective personalized healthcare is increasingly dependent
-    on our ability to process vast heterogeneous datasets. However, practitioners are often overwhelmed due to
-    a lack of tools and expertiese in the field of data management. This community brings
-    together biomedical informatics and data management researchers who will engage
-    in collaborative efforts to identify emerging problem areas, develop better solutions
-    and accelearate the pace of scientific progress.
 sections:
     - partial: content
       content:
@@ -50,6 +44,10 @@ links:
     href: https://discord.gg/mR7Fmh9JtG
     large: true
     label: Chat
+  - icon: fa-solid fa-person-chalkboard
+    href: '#invited-speakers'
+    large: true
+    label: Speakers
   - icon: fa-solid fa-location-dot
     href: https://vldb.org/2026/
     large: true
