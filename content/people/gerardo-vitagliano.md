@@ -8,9 +8,8 @@ thumbnail: images/people/gerardo-vitagliano.jpg
 title: Gerardo Vitagliano
 details: Postdoc / Data Systems Group / MIT CSAIL
 summary: |
-  Develops interactive and user-friendly ML data systems and the automation of multimodal data integration.
-  As part of the ARPA-H Biomedical Data Fabric program, he collaborates with clinicians and biomedical researchers,
-  e.g., Sage Bionetworks.
+  Coming from the data management community, his research goal is to build interactive and user-friendly data systems, allowing domain experts to analyze large-scale multimodal datasets.
+  His research involves active collaborations with clinicians and biomedical researchers to impact real-world healthcare.
 links:
     - href: https://vitaglianog.github.io/
       icon: fa-home
