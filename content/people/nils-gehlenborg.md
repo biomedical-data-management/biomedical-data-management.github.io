@@ -6,7 +6,7 @@ groups:
     - invited
 thumbnail: images/people/nils-gehlenborg.jpg
 title: Nils Gehlenborg
-details: Associate Professor / Department of Biomedical Informatics/ Harvard University
+details: Associate Professor / Department of Biomedical Informatics / Harvard University
 summary: |
   His research group develops visual interfaces and computational techniques that enable scientists and clinicians to efficiently
   interact with biomedical data. They developed the [HubMAP data portal](https://portal.hubmapconsortium.org/)
