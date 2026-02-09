@@ -16,16 +16,37 @@ summary: |
 #   alternateName: [ "easeml", "ease ml" ]
 #   logo: https://ease.ml/images/easeml-logo.png
 sections:
-    # - title: Presenters
-    #   partial: grid
-    #   content:
-    #     page: presenters
-    #     param: pages
-    #   params:
-    #     small: false
-    #     sortBy:
-    #       param: order
     - partial: content
+    - title: Invited Speakers
+      partial: list
+      content:
+        page: people
+        param: pages
+        where:
+          key: Params.groups
+          operator: intersect
+          match:
+            - invited
+      params:
+        preventTitleLinks: true
+        small: false
+        sortBy:
+          param: order
+    - title: Organizing Team
+      partial: list
+      content:
+        page: people
+        param: pages
+        where:
+          key: Params.groups
+          operator: intersect
+          match:
+            - organizer
+      params:
+        preventTitleLinks: true
+        small: false
+        sortBy:
+          param: order
 
 links:
   - icon: fa-brands fa-discord
