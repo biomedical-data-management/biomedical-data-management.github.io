@@ -216,4 +216,24 @@ details p:last-child {
         font-size: 1rem;
     }
 
+    h1 {
+        font-size: 2.5em;
+    }
+    
+    h2 {
+        font-size: 1.5em;
+    }
+    
+    h3 {
+        font-size: 1.25em;
+    }
+    
+    h1 sub {
+        font-size: 0.5em;
+    }
+    
+    h4 {
+        font-size: 1em;
+    }
+
 }

@@ -1,10 +1,7 @@
 ## Background
 Understanding the human body and providing effective personalized healthcare is increasingly dependent
 on our ability to process vast heterogeneous datasets. However, practitioners are often overwhelmed due to
-a lack of tools and expertise in the field of data management. This community brings
-together biomedical informatics and data management researchers who will engage
-in collaborative efforts to identify emerging problem areas, develop better solutions
-and accelerate the pace of scientific progress.
+a lack of tools and expertise in the field of data management.
 
 This interdisciplinary workshop will focus on data management techniques, tools, and systems with direct
 applications to the unique challenges in biomedical research and healthcare. Our overarching goal is to develop
