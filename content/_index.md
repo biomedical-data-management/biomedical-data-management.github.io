@@ -3,10 +3,10 @@ layout: list
 title: Biomedical Data Management
 subtitle: Workshop at VLDB 2026
 thumbnail: images/logo.png
-summary: |
-  This community brings together biomedical informatics and data management researchers who engage in
-  collaborative efforts to identify emerging problem areas, develop novel solutions and accelerate
-  the pace of scientific progress.
+# summary: |
+#   This community brings together biomedical informatics and data management researchers who engage in
+#   collaborative efforts to identify emerging problem areas related, develop novel solutions and accelerate
+#   the pace of scientific progress.
 sections:
     - partial: content
       content:
