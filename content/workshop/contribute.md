@@ -24,7 +24,7 @@ successfully executed project should ideally be able to result in publications a
 a top-tier data management conference (e.g., [VLDB](https://vldb.org/), [SIGMOD](https://sigmod.org/)),
 and a top-tier biomedical journal (e.g., [Nature](http://nature.com/), [Cell](https://www.cell.com/)).
 
-### Timeline
+<!-- ### Timeline
 
 * **April 15th, 2026 (11:59 PM AoE):** Submission deadline for **lightning talk proposals**. \
 Acceptance notifications will arrive by May 1st. We ***encourage early submissions*** and will
@@ -32,7 +32,7 @@ make every effort to review them within 2 weeks.
 <!-- Authors of accepted submissions will immediately be featured on the workshop website,
 providing visibility to the rest of the community. -->
 
-* **June 1st, 2026 (11:59 PM AoE):** Submission deadline for **project talk proposals**. \
+<!-- * **June 1st, 2026 (11:59 PM AoE):** Submission deadline for **project talk proposals**. \
 Acceptance notifications will arrive by July 1st.
 
 * **August 1st, 2026 (11:59 PM AoE):** Camera-ready and associated blog post submission deadline.
@@ -52,7 +52,7 @@ TBD
 
 #### Project Talk Proposal
 
-TBD
+TBD -->
 
 ### Review process
 
@@ -62,6 +62,6 @@ relevant expertise. The review criteria will focus on the clarity of the problem
 data management, the potential for cross-disciplinary collaboration, and the feasibility of the proposed project
 (for Project Talk Proposals). We will also consider the novelty and potential impact of the proposed ideas.
 
-### Post-acceptance process
+<!-- ### Post-acceptance process
 
-TBD
+TBD -->
