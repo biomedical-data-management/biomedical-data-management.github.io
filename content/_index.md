@@ -3,15 +3,12 @@ layout: list
 title: Biomedical Data Management
 subtitle: Workshop at VLDB 2026
 thumbnail: images/logo.png
-# summary: |
-#   This community brings together biomedical informatics and data management researchers who engage in
-#   collaborative efforts to identify emerging problem areas related, develop novel solutions and accelerate
-#   the pace of scientific progress.
+summary: |
+  Community of biomedical informatics and data management researchers and practitioners who engage in
+  collaborative efforts to identify emerging problem areas, develop novel solutions and help accelerate
+  the pace of innovation in healthcare.
 sections:
-    - partial: content
-      content:
-        page: workshop/background.md
-    - title: Invited Speakers
+    - title: Speakers
       partial: list
       content:
         page: people
@@ -26,7 +23,16 @@ sections:
         small: false
         sortBy:
           param: order
-    - title: Organizing Team
+    - partial: content
+      content:
+        page: workshop/program.md
+    - partial: content
+      content:
+        page: workshop/contribute.md
+    - partial: content
+      content:
+        page: workshop/about.md
+    - title: Organizers
       partial: list
       content:
         page: people
@@ -47,10 +53,10 @@ links:
     href: https://discord.gg/mR7Fmh9JtG
     large: true
     label: Chat
-  - icon: fa-solid fa-person-chalkboard
-    href: '#invited-speakers'
-    large: true
-    label: Speakers
+  # - icon: fa-solid fa-person-chalkboard
+  #   href: '#invited-speakers'
+  #   large: true
+  #   label: Speakers
   - icon: fa-solid fa-location-dot
     href: https://vldb.org/2026/
     large: true

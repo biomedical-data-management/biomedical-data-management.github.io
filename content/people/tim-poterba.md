@@ -6,6 +6,7 @@ groups:
     - invited
 thumbnail: images/people/tim-poterba.jpg
 title: Tim Poterba
+details: Software Engineer and Entrepreneur / Former Co-founder and CTO of E9 Genomics
 summary: |
   Spent over 8 years as a software engineer at the [Neale Lab](https://www.nealelab.is/)
   of the [Broad Institue](https://www.broadinstitute.org/) where he was a lead developer of [Hail](https://hail.is/),
