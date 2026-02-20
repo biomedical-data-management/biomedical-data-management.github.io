@@ -24,23 +24,65 @@ successfully executed project should ideally be able to result in publications a
 a top-tier data management conference (e.g., [VLDB](https://vldb.org/), [SIGMOD](https://sigmod.org/)),
 and a top-tier biomedical journal (e.g., [Nature](http://nature.com/), [Cell](https://www.cell.com/)).
 
-<!-- ### Timeline
+### Timeline
 
-* **April 15th, 2026 (11:59 PM AoE):** Submission deadline for **lightning talk proposals**. \
-Acceptance notifications will arrive by May 1st. We ***encourage early submissions*** and will
-make every effort to review them within 2 weeks.
-<!-- Authors of accepted submissions will immediately be featured on the workshop website,
-providing visibility to the rest of the community. -->
+* **June 1st, 2026 (11:59 PM AoE):** Submission deadline for all talk proposals.
+Acceptance notifications will arrive by **July 1st, 2026**.
 
-<!-- * **June 1st, 2026 (11:59 PM AoE):** Submission deadline for **project talk proposals**. \
-Acceptance notifications will arrive by July 1st.
+* **July 15th, 2026 (11:59 PM AoE):** Submission deadline for camera-ready papers and associated blog posts.
 
-* **August 1st, 2026 (11:59 PM AoE):** Camera-ready and associated blog post submission deadline.
+* **August 15th, 2026 (11:59 PM AoE):** Deadline for [talk merger](#talk-mergers) requests.
 
-### Initiating collaborations
+* **August 31st or September 4th, 2026 (TBD):** Day of the [workshop](#program).
 
-TBD
+### Collaborative Intiatives
 
+One of our key goals is to organize a friendly scientific forum that encourages cross-disciplinary collaborations.
+Apart from the in-person interactions that will take place during the workshop day, we are planning several
+initiatives aimed at sparking productive joint efforts.
+
+#### Discord Server
+
+We started a [Discord server](https://discord.gg/mR7Fmh9JtG) that will serve as the main forum
+for online interactions. We encourage interested participants to hop onto the server:
+
+* Go to the `#introductions` channel and write a few sentences about their background and their motivation to join
+the community. It is helpful to include links to online profiles (e.g., personal homepage, Google scholar)
+both in the introduction and on your profile "About me".
+* Ask a question to the chairs or offer some feedback on the `#questions-and-feedback`.
+* Pitch their talk ideas on the `#talk-ideas` channel and ask for feedback.
+* Propose a collaborative project on the `#project-ideas` channel and invite other members to join.
+
+#### Talk Mergers
+
+Community members that have had their lightning talk proposals accepted will be given a chance to
+join forces with authors of other accepted lightning talks and request a *merger* into a single project talk.
+After the camera-ready deadline, we will release all submitted proposals, associated blog posts, and author
+information on the workshop website. The authors will be able to review each other's submissions and identify
+complementary groups who they can get in touch with and come up with an idea for a joint project.
+
+**Submitting a merger request:** The two author groups who have agreed to merge their talks should
+send an email to the workshop chairs with a formal request, a statement of motivation,
+a title and abstract of the new talk, and a brief outline of the structure of the new talk.
+The proposed structure can still be based on the individual lightning talks, but should connect them into a cohesive
+synergistic project vision.
+The chairs will review the request and respond with their final decision that will be based on the main criteria for
+project talk proposals (i.e., relevance, collaborative potential and feasibility).
+
+**Accepted merger requests:** Authors of accepted merger requests will be given a regular project talk slot.
+They will also be invited to submit a blog post about their proposed project vision which will be published on
+the workshop website.
+
+#### Vision Paper
+
+Assuming the workshop proves successful at achieving its [main goals](#specific-goals), the co-chairs will
+start a working group for producing a vision paper to be submitted to
+[PVLDB](https://www.vldb.org/pvldb/volumes/20/contributions) that will outline the conclusions of the
+workshop and lay out a vision for a future comprehensive biomedical data management system.
+**All speakers and authors of accepted submissions will be invited to join** this working group and contribute to this
+paper as co-authors, leaving a lasting artifact that will hopefully inspire more future work in this space.
+
+<!--
 ### Formatting guidelines
 
 Submissions should adhere to the official
