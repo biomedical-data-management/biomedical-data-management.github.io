@@ -9,5 +9,5 @@ h1, h2, h3, body>header>div>span {
 }
 
 code {
-    font-family: "Google Sans Code";
+    font-family: "Google Sans Code", monospace;
 }
