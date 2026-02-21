@@ -99,7 +99,7 @@ the authors produced in the past. That said, a light reflow is always beneficial
 to a casual reader.
 * **Formatting:** The blog post should be submitted as a single `.md` text file written using
 [Markdown syntax](https://www.markdownguide.org/basic-syntax/). Additional  JPEG, PNG or GIF images can be submitted
-alongside as well as author info. Blogs should be submitted as a pull request to the
+alongside as well as author info. Blog posts should be submitted as a pull request to the
 [workshop website](https://github.com/biomedical-data-management/biomedical-data-management.github.io).
 
 ## Collaborating
