@@ -19,7 +19,7 @@ and the recognition that data is crucial for unlocking new scientific insights a
 care. Furthermore, the scale of data that is being collected is growing exponentially,
 driven by the decreasing costs of data acquisition technologies and the increasing digitization of healthcare systems.
 However, the people who produce, analyze, and interpret biomedical data (e.g., clinicians, digital health
-specialists, bioinformaticians etc.) often lack the expertise and tools to effectively manage and analyze
+specialists, bioinformaticians, etc.) often lack the expertise and tools to effectively manage and analyze
 these multi-modal datasets at scale. This means that scientific progress is often limited by overwhelming
 data management challenges.
 
@@ -59,7 +59,7 @@ steps that need to take place to answer those questions.
 
 * **Data Management and Data Analysis Experts:** People with expertise in relevant subdomains of data management
 (e.g., scalable analytics, data integration, data quality, streaming data management, etc.)
-and large-scale data analysis who have a desire or even a proven track record for making an impact
+and large-scale data analysis, who have a desire or even a proven track record for making an impact
 on the biomedical field.
 
 ### Motivating scenario
@@ -107,7 +107,7 @@ temporal, and population-based differences.
 * **Biomedical Analytics Pipelines and Platforms** \
 ***Challenge:*** *End-to-end biomedical analytics pipelines are difficult to scale, evolve, and reproduce using existing ad hoc workflow and data platform solutions.* \
 ***Related DM topics:*** [multi-modal data analytics](https://www.tiledb.com/multimodal-data), [materialized views](https://en.wikipedia.org/wiki/Materialized_view), [data indexing](https://en.wikipedia.org/wiki/Database_index) \
-***Details:*** Optimization, scalability and reusability of end-to-end analysis pipelines over large, heterogeneous,
+***Details:*** Optimization, scalability, and reusability of end-to-end analysis pipelines over large, heterogeneous,
 streamed, and distributed biomedical data sets, possibly facing a variety of privacy regulations.
 Knowledge graph construction and management for biomedical applications, including drug discovery and repurposing,
 omics data analysis, and clinical decision-making.
