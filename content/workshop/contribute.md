@@ -10,22 +10,22 @@ that will (1) highlight key problems and/or potential solutions, and, optionally
 collaborative projects. Hence, we will accept two types of submissions:
 
 * **Insight Talk Proposal (1-2 pages, ~5-10 minutes):**
-This will serve as an initiation talk for community members allowing them to share
-their expertiese and spark ideas for future projects.
+This will serve as an initiation talk for community members, allowing them to share
+their expertise and spark ideas for future projects.
 This talk should ideally focus either on presenting problems (nails) or solutions (hammers)
 related to biomedical data management.
 From biomedical researchers, we expect talks about ***nails***, i.e., problem statements that describe a current data management or
-processing workflow, and an overview of some painful challenges assiciated with that workflow.
-From data management researchers, we expect ***hammers***, i.e., expositions of a data management systems
-or methodologies that they have expertiese in and visions
+processing workflow, and an overview of some painful challenges associated with that workflow.
+From data management researchers, we expect ***hammers***, i.e., expositions of a data management system
+or methodologies that they have expertise in and visions
 (not necessarily realized) of how they can be applied to specific problems in biomedical data management.
 
 * **Project Talk Proposal (up to 4 pages, ~15-20 minutes):**
 This talk should either outline a work-in-progress project or present a viable project vision.
 An ideal project should (a) involve folks from *both communities*, (b) identify an *important nail* matched with
-the *appropriate hammer* and (c) *meaningfully advance* both biomedical research and data management research.
+the *appropriate hammer*, and (c) *meaningfully advance* both biomedical research and data management research.
 As such, upon completion, a successfully executed project should ideally be able to result in publications at both
-a top-tier data management conference (e.g., [VLDB](https://vldb.org/), [SIGMOD](https://sigmod.org/)),
+a top-tier data management conference (e.g., [VLDB](https://vldb.org/), [SIGMOD](https://sigmod.org/))
 and a top-tier biomedical journal (e.g., [Nature](http://nature.com/), [Cell](https://www.cell.com/)).
 
 ### Important dates
@@ -41,7 +41,7 @@ Acceptance notifications will arrive by **June 15th, 2026**.
 
 ### Review process
 
-All submissions will receive single-blind peer-reviews from a program committee consisting of both biomedical
+All submissions will receive single-blind peer reviews from a program committee consisting of both biomedical
 researchers and data management researchers. Each submission will be assigned to at least two reviewers with
 relevant expertise. The review criteria will focus on the clarity of the problem statement, the relevance to biomedical
 data management, the potential for cross-disciplinary collaboration, and the feasibility of the proposed project
@@ -59,7 +59,7 @@ Talk proposals should be submitted to OpenReview as a PDF formatted according to
 Submissions that breach the formatting guidelines will not be considered.
 Below, we provide a few general guidelines, followed by some guidelines specific to different submission types:
 
-* **Author introductions:** To properly higlighting all community members,
+* **Author introductions:** To properly highlight all community members,
 submissions should contain a final "Authors" section with a list of authors, their affiliation,
 a brief bio (2-3 sentences), and whether they are coming from the biomedical or the data management community.
 
@@ -83,23 +83,23 @@ visions of novel future projects. Existing projects can be presented as [insight
 
 #### Camera Ready
 
-After a submission is accepted, the authors will be given a chance to submit a camera ready version that
-integrates reviewer feedback, includes any final touches, and any supplementary deatils the authors
+After a submission is accepted, the authors will be given a chance to submit a camera-ready version that
+integrates reviewer feedback, includes any final touches, and any supplementary details that the authors
 want to include (up to 2 additional pages).
 
 #### Blog Post
 
 Invited speakers and authors of accepted submissions are invited to contribute a blog post to the workshop website
 highlighting key points of their talk. This will allow workshop attendees and other interested parties to
-easily get acquainted with the author's work even if they miss their talk. Some specific guidelines:
+easily get acquainted with the author's work, even if they miss their talk. Some specific guidelines:
 
 * **Length:** Flexible, but suggested length is 1000-2000 words.
 * **Novelty:** The text is free to be copied from the original submission or any other content that
 the authors produced in the past. That said, a light reflow is always beneficial to make the post accessible
 to a casual reader.
 * **Formatting:** The blog post should be submitted as a single `.md` text file written using
-[Markdown syntax](https://www.markdownguide.org/basic-syntax/). Additional  JPEG, PNG or GIF images can be submitted
-alongside as well as author info. Blog posts should be submitted as a pull request to the
+[Markdown syntax](https://www.markdownguide.org/basic-syntax/). Additional  JPEG, PNG, or GIF images can be submitted
+alongside, as well as author info. Blog posts should be submitted as a pull request to the
 [workshop website](https://github.com/biomedical-data-management/biomedical-data-management.github.io).
 
 ## Collaborating
@@ -114,7 +114,7 @@ We started a [Discord server](https://discord.gg/mR7Fmh9JtG) that will serve as 
 for online interactions. We encourage interested participants to join the server and:
 
 * Go to the `#introductions` channel and write a few sentences about their background and their motivation to join
-the community. It is helpful to include links to online profiles (e.g., personal homepage, Google scholar)
+the community. It is helpful to include links to online profiles (e.g., personal homepage, Google Scholar)
 both in the introduction and on your profile "About me".
 * Ask a question to the chairs or offer some feedback on the `#questions-and-feedback`.
 * Pitch their talk ideas on the `#talk-ideas` channel and ask for feedback.
@@ -122,11 +122,11 @@ both in the introduction and on your profile "About me".
 
 ### Talk Mergers
 
-Community members that have had their insight talk proposals accepted will be given a chance to
+Community members who have had their insight talk proposals accepted will be given a chance to
 join forces with authors of other accepted insight talks and request a *merger* into a single project talk.
 After the camera-ready deadline, we will release all submitted proposals, associated blog posts, and author
 information on the workshop website. The authors will be able to review each other's submissions and identify
-complementary groups who they can get in touch with and come up with an idea for a joint project.
+complementary groups with whom they can get in touch and come up with an idea for a joint project.
 
 **Submitting a merger request:** The two author groups who have agreed to merge their talks should
 send an email to the workshop chairs with a formal request, a statement of motivation,
@@ -134,10 +134,10 @@ a title and abstract of the new talk, and a brief outline of the structure of th
 The proposed structure can still be based on the individual insight talks, but should connect them into a cohesive
 synergistic project vision.
 The chairs will review the request and respond with their final decision that will be based on the main criteria for
-project talk proposals (i.e., relevance, collaborative potential and feasibility).
+project talk proposals (i.e., relevance, collaborative potential, and feasibility).
 
 **Accepted merger requests:** Authors of accepted merger requests will be given a regular project talk slot.
-They will also be invited to submit a blog post about their proposed project vision which will be published on
+They will also be invited to submit a blog post about their proposed project vision, which will be published on
 the workshop website.
 
 ### Vision Paper
