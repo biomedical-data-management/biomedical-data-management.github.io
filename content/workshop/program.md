@@ -20,7 +20,7 @@
 ## Program
 
 **Where:** [VLDB 2026](https://vldb.org/2026/) in **Boston**, USA.\
-**When:** **August 31st** or **September 4th** (TBD).
+**When:** **September 4th** (afternoon).
 
-The workshop program will feature invited and proposed talks, panel discussions, guided breakout sessions,
+The workshop program will feature a selection of invited and proposed talks,
 and networking opportunities. Details TBD.
