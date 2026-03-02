@@ -1,4 +1,4 @@
-baseURL = "https://bio-dm.org/"
+baseURL = "https://biodms.org/"
 languageCode = "en-us"
 title = "Biomedical Data Management"
 theme = "cotton-sky"
