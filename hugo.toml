@@ -1,6 +1,6 @@
 baseURL = "https://biodms.org/"
 languageCode = "en-us"
-title = "Biomedical Data Management"
+title = "Biomedical Data Management Systems"
 theme = "cotton-sky"
 
 [markup]
