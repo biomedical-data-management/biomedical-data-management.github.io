@@ -9,9 +9,9 @@
    id="svg1"
    inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
    sodipodi:docname="favicon.svg"
-   inkscape:export-filename="favicon.png"
-   inkscape:export-xdpi="16.256001"
-   inkscape:export-ydpi="16.256001"
+   inkscape:export-filename="favicon-512.png"
+   inkscape:export-xdpi="260.09601"
+   inkscape:export-ydpi="260.09601"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -66,19 +66,19 @@
        y="0" />
     <text
        xml:space="preserve"
-       style="font-size:23.7795px;line-height:0.85;font-family:'Baloo Paaji 2';-inkscape-font-specification:'Baloo Paaji 2, @wght=700';font-variation-settings:'wght' 700;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.743106"
-       x="24.695398"
-       y="23.039417"
+       style="font-size:20.9818px;line-height:0.85;font-family:'Baloo Paaji 2';-inkscape-font-specification:'Baloo Paaji 2, @wght=700';font-variation-settings:'wght' 700;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.655679"
+       x="24.747255"
+       y="21.086658"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-size:23.7795px;line-height:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.743106"
-         x="24.695398"
-         y="23.039417">Bio</tspan><tspan
+         style="font-size:20.9818px;line-height:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.655679"
+         x="24.747255"
+         y="21.086658">Bio</tspan><tspan
          sodipodi:role="line"
-         style="font-size:23.7795px;line-height:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.743106"
-         x="24.6954"
-         y="43.251991"
+         style="font-size:20.9818px;line-height:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.655679"
+         x="24.747255"
+         y="38.921204"
          id="tspan2">DMS</tspan></text>
   </g>
 </svg>

@@ -4,29 +4,30 @@
 the current state of the field. -->
 
 As an inaugural workshop, our goal is to hear as many voices as possible, providing the attendees with a thorough overview of
-the current state of the field.
-To complement our selection of esteemed speakers, we encourage the community to submit proposals for talks
+the current state of the field. <!-- To complement our selection of esteemed speakers, -->
+We encourage the community to submit proposals for talks
 that will (1) highlight key problems and/or potential solutions, and, optionally, (2) outline visions of
 collaborative projects. Hence, we will accept two types of submissions:
 
-* **Insight Talk Proposal (1-2 pages, ~5-10 minutes):**
-This will serve as an initiation talk for community members, allowing them to share
-their expertise and spark ideas for future projects.
-This talk should ideally focus either on presenting problems (nails) or solutions (hammers)
+* **Lightning Talk Proposal (2-page abstract, 5-minute talk):**
+This can serve as an initiation for community members, allowing them to share
+insights and spark ideas for future projects.
+The presentation should ideally focus either problems (nails) or solutions (hammers)
 related to biomedical data management.
-From biomedical researchers, we expect talks about ***nails***, i.e., problem statements that describe a current data management or
+From biomedical researchers, we hope to hear about ***nails***, i.e., problem statements that describe a current data management or
 processing workflow, and an overview of some painful challenges associated with that workflow.
-From data management researchers, we expect ***hammers***, i.e., expositions of a data management system
+From data management researchers, we seek ***hammers***, i.e., expositions of a data management system
 or methodologies that they have expertise in and visions
 (not necessarily realized) of how they can be applied to specific problems in biomedical data management.
 
-* **Project Talk Proposal (up to 4 pages, ~15-20 minutes):**
-This talk should either outline a work-in-progress project or present a viable project vision.
+* **Project Talk Proposal (4-page short paper, 10-minute talk):**
+This should either outline a work-in-progress project or present a viable project vision.
 An ideal project should (a) involve folks from *both communities*, (b) identify an *important nail* matched with
 the *appropriate hammer*, and (c) *meaningfully advance* both biomedical research and data management research.
 As such, upon completion, a successfully executed project should ideally be able to result in publications at both
 a top-tier data management conference (e.g., [VLDB](https://vldb.org/), [SIGMOD](https://sigmod.org/))
-and a top-tier biomedical journal (e.g., [Nature](http://nature.com/), [Cell](https://www.cell.com/)).
+and a top-tier biomedical journal (e.g., [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/),
+[Bioinformatics](https://academic.oup.com/bioinformatics)).
 
 ### Important dates
 
@@ -68,7 +69,7 @@ In order to maximize understanding between communities, we encourage
 authors to minimize the usage of domain-specific jargon in all submitted materials, or to provide
 gentle and clear introductions before usage.
 
-#### Insight Talk Proposal
+#### Lightning Talk Proposal
 
 * **Length:** Up to 2 pages (excluding references).
 * **Novelty:** This type of submission does not have to represent novel work,
@@ -79,7 +80,7 @@ aligned with the overall [workshop vision](#vision).
 
 * **Length:** Up to 4 pages (excluding references).
 * **Novelty:** This submission should present either novel work-in-progress projects or
-visions of novel future projects. Existing projects can be presented as [insight talks](#insight-talk-proposal).
+visions of novel future projects. Existing projects can be presented as [lightning talks](#lightning-talk-proposal).
 
 #### Camera Ready
 
@@ -91,11 +92,13 @@ want to include (up to 2 additional pages).
 
 Invited speakers and authors of accepted submissions are invited to contribute a blog post to the workshop website
 highlighting key points of their talk. This will allow workshop attendees and other interested parties to
-easily get acquainted with the author's work, even if they miss their talk. Some specific guidelines:
+easily get acquainted with the author's work, even if they miss their talk.
+If associated with a submission, the blog post should complement it, providing an easy-to-read summary.
+Some specific guidelines:
 
-* **Length:** Flexible, but suggested length is 1000-2000 words.
+* **Length:** Flexible, but the suggested length is around 800-1000 words.
 * **Novelty:** The text is free to be copied from the original submission or any other content that
-the authors produced in the past. That said, a light reflow is always beneficial to make the post accessible
+the authors produced in the past. That said, a light reflow would be beneficial to make the post accessible
 to a casual reader.
 * **Formatting:** The blog post should be submitted as a single `.md` text file written using
 [Markdown syntax](https://www.markdownguide.org/basic-syntax/). Additional  JPEG, PNG, or GIF images can be submitted
@@ -110,7 +113,7 @@ online initiatives aimed at sparking productive joint efforts.
 
 ### Discord Server
 
-We started a [Discord server](https://discord.gg/mR7Fmh9JtG) that will serve as the main forum
+We created a [Discord server](https://discord.gg/mR7Fmh9JtG) that will serve as the main forum
 for online interactions. We encourage interested participants to join the server and:
 
 * Go to the `#introductions` channel and write a few sentences about their background and their motivation to join
@@ -122,16 +125,16 @@ both in the introduction and on your profile "About me".
 
 ### Talk Mergers
 
-Community members who have had their insight talk proposals accepted will be given a chance to
-join forces with authors of other accepted insight talks and request a *merger* into a single project talk.
+Community members who have had their lightning talk proposals accepted will be given a chance to
+join forces with authors of other accepted lightning talks and request a *merger* into a single project talk.
 After the camera-ready deadline, we will release all submitted proposals, associated blog posts, and author
 information on the workshop website. The authors will be able to review each other's submissions and identify
 complementary groups with whom they can get in touch and come up with an idea for a joint project.
 
 **Submitting a merger request:** The two author groups who have agreed to merge their talks should
-send an email to the workshop chairs with a formal request, a statement of motivation,
-a title and abstract of the new talk, and a brief outline of the structure of the new talk.
-The proposed structure can still be based on the individual insight talks, but should connect them into a cohesive
+send an email to the workshop chairs with a formal request, a brief statement of motivation,
+a title and abstract of the new talk, and an outline of the structure of the new talk.
+The proposed structure can still be based on the individual lightning talks, but should connect them into a cohesive
 synergistic project vision.
 The chairs will review the request and respond with their final decision that will be based on the main criteria for
 project talk proposals (i.e., relevance, collaborative potential, and feasibility).
@@ -142,9 +145,8 @@ the workshop website.
 
 ### Vision Paper
 
-Assuming the workshop proves successful at achieving its [main goals](#specific-goals), the co-chairs will
-start a working group for producing a vision paper to be submitted to
-[PVLDB](https://www.vldb.org/pvldb/volumes/20/contributions) that will outline the conclusions of the
-workshop and lay out a vision for a future comprehensive biomedical data management system.
+Assuming the workshop proves successful at achieving its [main goals](#specific-goals), the co-chairs plan to
+start a working group for producing a vision paper outlining the conclusions of the
+workshop and laying out a vision for a future comprehensive biomedical data management system.
 **All speakers and authors of accepted submissions will be invited to join** this working group and contribute to this
 paper as co-authors, leaving a lasting artifact that will hopefully inspire more future work in this space.

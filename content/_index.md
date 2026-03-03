@@ -49,16 +49,33 @@ sections:
           param: order
 
 links:
+  - icon: fa-brands fa-x-twitter
+    href: https://x.com/BioDms92972
+    large: true
+    label: Follow
+    # title: Follow
   - icon: fa-brands fa-discord
     href: https://discord.gg/mR7Fmh9JtG
     large: true
     label: Chat
+    # title: Chat
   # - icon: fa-solid fa-person-chalkboard
   #   href: '#invited-speakers'
   #   large: true
   #   label: Speakers
+  - icon: fa-solid fa-file-circle-plus
+    href: https://openreview.net/group?id=VLDB.org/2026/Workshop/BioDM
+    large: true
+    label: Submit
+    # title: Submit
   - icon: fa-solid fa-location-dot
     href: https://vldb.org/2026/
     large: true
     label: Attend
+    # title: Attend
+  - icon: fa-envelope
+    href: "mailto:chairs@biodms.org"
+    large: true
+    label: Contact
+    # title: Contact
 ---
