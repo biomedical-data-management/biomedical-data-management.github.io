@@ -1,4 +1,4 @@
-## Contributing
+## Call for Papers
 
 <!-- As an inaugural workshop, our goal is to hear as many voices as possible and provide a thorough overview of
 the current state of the field. -->
@@ -31,14 +31,31 @@ and a top-tier biomedical journal (e.g., [Nature Biomedical Engineering](https:/
 
 ### Important dates
 
-* **May 15th, 2026 (11:59 PM AoE):** Submission deadline for [all talk proposals](#submission-guidelines).
+* **June 15th, 2026 (11:59 PM AoE):** Submission deadline for [all talk proposals](#submission-guidelines).
 Acceptance notifications will arrive by **June 15th, 2026**.
 
 * **July 1st, 2026 (11:59 PM AoE):** Submission deadline for [camera-ready](#camera-ready) papers and associated blog posts.
 
 * **August 15th, 2026 (11:59 PM AoE):** Deadline for [talk merger](#talk-mergers) requests.
 
-* **August 31st or September 4th, 2026 (TBD):** Day of the [workshop](#program).
+* **September 4th, 2026 (afternoon):** Day of the [workshop](#program).
+
+### Topics of interest
+
+We invite contributions that explore topics including, but not limited to, the following:
+
+* Biomedical data integration and interoperability
+* Scalable storage and querying of large biomedical datasets
+* Biomedical data management and processing system design
+* Data quality, preprocessing, and curation pipelines
+* Workflow automation and reproducible research systems
+* Privacy-preserving and secure processing of medical datasets
+* Domain-specific ontologies, semantic modeling, and knowledge graphs
+* Metadata management and data lifecycle governance
+* High-throughput analytics for genomics, imaging, and multimodal data
+* Collaborative platforms for biomedical data sharing and access
+
+For a more detailed breakdown, see the [about](#about) section.
 
 ### Review process
 
@@ -73,8 +90,7 @@ gentle and clear introductions before usage.
 
 * **Length:** Up to 2 pages (excluding references).
 * **Novelty:** This type of submission does not have to represent novel work,
-but it has to draw a clear connection to the [topics of interest](#topics-of-interest) and be
-aligned with the overall [workshop vision](#vision).
+but it should draw a clear connection to the [workshop focus areas](#focus-areas) and advance its overall [vision](#vision).
 
 #### Project Talk Proposal
 

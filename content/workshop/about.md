@@ -86,7 +86,7 @@ intuitive data access, and scalability. A well-designed biomedical data manageme
 these frictions, enabling a secure, patient-centric, multimodal view that is assembled reliably and quickly,
 transforming tumor board preparation from a tedious, error-prone integration task into a reproducible workflow.
 
-### Topics of interest
+### Focus areas
 
 This workshop will feature presentations and discussions related to the following topics:
 
