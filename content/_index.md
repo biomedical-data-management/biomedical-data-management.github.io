@@ -50,7 +50,7 @@ sections:
 
 links:
   - icon: fa-brands fa-x-twitter
-    href: https://x.com/BioDms92972
+    href: https://x.com/biodatasys
     large: true
     label: Follow
     # title: Follow
