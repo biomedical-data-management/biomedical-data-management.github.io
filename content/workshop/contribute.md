@@ -44,18 +44,16 @@ Acceptance notifications will arrive by **June 15th, 2026**.
 
 We invite contributions that explore topics including, but not limited to, the following:
 
-* Biomedical data integration and interoperability
 * Scalable storage and querying of large biomedical datasets
-* Biomedical data management and processing system design
+* Data integration and interoperability across institutions, populations, and time scales
 * Data quality, preprocessing, and curation pipelines
-* Workflow automation and reproducible research systems
-* Privacy-preserving and secure processing of medical datasets
+* Workflow automation, data lifecycle governance and reproducible research
+* Privacy-preserving and secure processing of sensitive medical datasets
 * Domain-specific ontologies, semantic modeling, and knowledge graphs
-* Metadata management and data lifecycle governance
-* High-throughput analytics for genomics, imaging, and multimodal data
+* High-throughput analytics over heterogeneous datasets (e.g., genomics, imaging, clinical records, etc.)
 * Collaborative platforms for biomedical data sharing and access
 
-For a more detailed breakdown, see the [about](#about) section.
+*See the [about](#about) section for more details on the workshop focus areas and overall vision.*
 
 ### Review process
 
