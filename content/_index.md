@@ -64,7 +64,7 @@ links:
   #   large: true
   #   label: Speakers
   - icon: fa-solid fa-file-circle-plus
-    href: https://openreview.net/group?id=VLDB.org/2026/Workshop/BioDM
+    href: https://openreview.net/group?id=VLDB.org/2026/Workshop/BioDMS
     large: true
     label: Submit
     # title: Submit
