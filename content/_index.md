@@ -75,6 +75,7 @@ links:
     # title: Attend
   - icon: fa-envelope
     href: "mailto:chairs@biodms.org"
+    obfuscate: true
     large: true
     label: Contact
     # title: Contact
