@@ -31,7 +31,7 @@ and a top-tier biomedical journal (e.g., [Nature Biomedical Engineering](https:/
 
 ### Important dates
 
-* **June 15th, 2026 (11:59 PM AoE):** Submission deadline for [all talk proposals](#submission-guidelines).
+* **May 15th, 2026 (11:59 PM AoE):** Submission deadline for [all talk proposals](#submission-guidelines).
 Acceptance notifications will arrive by **June 15th, 2026**.
 
 * **July 1st, 2026 (11:59 PM AoE):** Submission deadline for [camera-ready](#camera-ready) papers and associated blog posts.
