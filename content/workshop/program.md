@@ -22,5 +22,6 @@
 **Where:** [VLDB 2026](https://vldb.org/2026/) in **Boston**, USA.\
 **When:** **September 4th** (afternoon).
 
-The workshop program will feature a selection of invited and proposed talks,
-and networking opportunities. Details TBD.
+The workshop program will feature a selection of keynotes and invited talks given by
+speakers from the biomedical and data management communities, along with talks proposed through
+submissions, as well as various other networking opportunities. Details TBD.
