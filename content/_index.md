@@ -8,21 +8,22 @@ summary: |
   collaborative efforts to identify emerging problem areas, develop novel solutions and help accelerate
   the pace of innovation in healthcare.
 sections:
-    # - title: Speakers
-    #   partial: list
-    #   content:
-    #     page: people
-    #     param: pages
-    #     where:
-    #       key: Params.groups
-    #       operator: intersect
-    #       match:
-    #         - invited
-    #   params:
-    #     preventTitleLinks: true
-    #     small: false
-    #     sortBy:
-    #       param: order
+    - title: Speakers
+      partial: list
+      content:
+        page: people
+        param: pages
+        where:
+          key: Params.groups
+          operator: intersect
+          match:
+            - keynote
+      params:
+        preventTitleLinks: true
+        small: false
+        grouped: true
+        sortBy:
+          param: order
     - partial: content
       content:
         page: workshop/program.md

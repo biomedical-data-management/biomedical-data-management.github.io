@@ -1,9 +1,9 @@
 ---
 hidden: true
-order: 1
+order: 2
 type: person
 groups:
-    - invited
+    - keynote
 thumbnail: images/people/nils-gehlenborg.jpg
 title: Nils Gehlenborg
 details: Associate Professor / Department of Biomedical Informatics / Harvard University
