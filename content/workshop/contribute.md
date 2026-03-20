@@ -26,8 +26,8 @@ An ideal project should (a) involve folks from *both communities*, (b) identify 
 the *appropriate hammer*, and (c) *meaningfully advance* both biomedical research and data management research.
 As such, upon completion, a successfully executed project should ideally be able to result in publications at both
 a top-tier data management conference (e.g., [VLDB](https://vldb.org/), [SIGMOD](https://sigmod.org/))
-and a top-tier biomedical journal (e.g., [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/),
-[Bioinformatics](https://academic.oup.com/bioinformatics)).
+and a high-impact biomedical journal (e.g., [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/),
+[Cell Patterns](https://www.cell.com/patterns/home)).
 
 ### Important dates
 
