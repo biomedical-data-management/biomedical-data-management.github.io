@@ -162,6 +162,6 @@ the workshop website.
 Assuming the workshop proves successful at achieving its [main goals](#specific-goals), the co-chairs plan to
 start a working group for producing a vision paper outlining the conclusions of the
 workshop and laying out a vision for a future comprehensive biomedical data management system.
-**All participants (including invited speakers, PC members and authors of accepted submissions) will be invited to join**
+**All participants (including invited speakers and authors of accepted submissions) will be invited to join**
 this working group and contribute to this paper as co-authors, leaving a lasting artifact
 that will hopefully inspire more future work in this space.
