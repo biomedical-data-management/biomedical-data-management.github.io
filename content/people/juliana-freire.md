@@ -10,7 +10,7 @@ details: Institute Professor / Tandon School of Engineering / New York Universit
 summary: |
   She develops methods and systems that enable a wide range of users to obtain trustworthy insights from data.
   She co-founded the Visualization, Imaging, and Data Analysis Center (VIDA) at NYU where she
-  oversaw the development of [BDI-Kit](https://github.com/VIDA-NYU/bdi-kit), a data harmonization
+  lead the development of [BDI-Kit](https://github.com/VIDA-NYU/bdi-kit), a data harmonization
   framework focused on biomedical data.
 links:
     - href: https://engineering.nyu.edu/faculty/juliana-freire

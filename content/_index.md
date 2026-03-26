@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Biomedical Data Management Systems
-subtitle: Workshop at VLDB 2026
+subtitle: Workshop @ **[VLDB 2026](https://vldb.org/2026/)**
 thumbnail: images/logo-type-vertical.png
 summary: |
   Community of biomedical informatics and data management researchers and practitioners who engage in
@@ -69,10 +69,10 @@ links:
     large: true
     label: Submit
     # title: Submit
-  - icon: fa-solid fa-location-dot
-    href: https://vldb.org/2026/
+  - icon: fa-solid fa-ticket
+    href: https://vldb.org/2026/registration.html
     large: true
-    label: Attend
+    label: Register
     # title: Attend
   - icon: fa-envelope
     href: "mailto:chairs@biodms.org"
