@@ -2,6 +2,7 @@
 layout: list
 title: Biomedical Data Management Systems
 subtitle: Workshop @ **[VLDB 2026](https://vldb.org/2026/)**
+preview_thumbnail: images/logo-type-portrait.png
 thumbnail: images/logo-type-vertical.png
 summary: |
   Community of biomedical informatics and data management researchers and practitioners who engage in
@@ -48,6 +49,19 @@ sections:
         small: true
         sortBy:
           param: order
+    - title: Program Committee
+      partial: list
+      content:
+        page: people
+        param: pages
+        where:
+          key: Params.groups
+          operator: intersect
+          match:
+            - reviewer
+      params:
+        preventTitleLinks: true
+        small: true
 
 links:
   - icon: fa-brands fa-x-twitter
