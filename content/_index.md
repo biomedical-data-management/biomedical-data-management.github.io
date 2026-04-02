@@ -5,7 +5,7 @@ subtitle: Workshop @ **[VLDB 2026](https://vldb.org/2026/)**
 preview_thumbnail: images/logo-type-preview.png
 thumbnail: images/logo-type-vertical.png
 summary: |
-  Gathering of **biomedical informatics** and **data management** researchers and practitioners who engage in
+  Community of **biomedical informatics** and **data management** researchers and practitioners who engage in
   **collaborative efforts** to develop **novel methods and systems** for accelerating the pace of innovation
   in **biomedical research and healthcare**.
 sections:
