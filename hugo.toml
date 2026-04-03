@@ -1,6 +1,6 @@
 baseURL = "https://biodms.org/"
 languageCode = "en-us"
-title = "Biomedical Data Management Systems"
+title = "Biomedical Data Management Systems | Workshop @ VLDB 2026"
 theme = "cotton-sky"
 
 [markup]
