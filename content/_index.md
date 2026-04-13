@@ -7,8 +7,8 @@ thumbnail: images/logo-type-vertical.png
 summary: |
   Community of **biomedical informatics** and **data management** researchers and practitioners who engage in
   **collaborative efforts** to identify the most pressing **data-related challenges**
-  (e.g., scalability, interoperability, quality),
-  and develop **novel methods and systems** to overcome them, thus accelerating the pace of innovation
+  (e.g., scalability, interoperability, quality, usability),
+  and develop **novel methods and systems** to overcome them, thereby helping to accelerate the pace of innovation
   in **biomedical research and healthcare**.
 sections:
     - title: Speakers
