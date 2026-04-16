@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Biomedical Data Management Systems
-subtitle: Workshop @ **[VLDB 2026](https://vldb.org/2026/)**
+subtitle: Workshop September 5th - Boston, MA @ **[VLDB 2026](https://vldb.org/2026/)**
 preview_thumbnail: images/logo-type-preview.png
 thumbnail: images/logo-type-vertical.png
 summary: |
