@@ -29,6 +29,9 @@ a top-tier data management conference (e.g., [VLDB](https://vldb.org/), [SIGMOD]
 and a high-impact biomedical journal (e.g., [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/),
 [Cell Patterns](https://www.cell.com/patterns/home)).
 
+### Submission link
+Submit your contribution to [OpenReview](https://openreview.net/group?id=VLDB.org/2026/Workshop/BioDMS)
+
 ### Important dates
 
 * **May 15th, 2026 (11:59 PM AoE):** Submission deadline for [all talk proposals](#submission-guidelines).
@@ -70,7 +73,7 @@ The blog post will be hosted on this community website and will serve as an easy
 
 ### Submission guidelines
 
-Talk proposals should be submitted to OpenReview as a PDF formatted according to the official
+Talk proposals should be submitted to OpenReview at [this link](https://openreview.net/group?id=VLDB.org/2026/Workshop/BioDMS) as a PDF formatted according to the official
 [PVLDB volume 19 formatting guidelines](https://www.vldb.org/pvldb/volumes/19/formatting).
 Submissions that breach the formatting guidelines will not be considered.
 Below, we provide a few general guidelines, followed by some guidelines specific to different submission types:
