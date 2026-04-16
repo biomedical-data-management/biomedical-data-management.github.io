@@ -1,10 +1,12 @@
 ---
 layout: list
 title: Biomedical Data Management Systems
-subtitle: Workshop September 4th - Boston, MA @ **[VLDB 2026](https://vldb.org/2026/)**
+subtitle: Workshop @ **[VLDB 2026](https://vldb.org/2026/)**
 preview_thumbnail: images/logo-type-preview.png
 thumbnail: images/logo-type-vertical.png
 summary: |
+  **[September 4th, 2026 / Boston, USA]**
+
   Community of **biomedical informatics** and **data management** researchers and practitioners who engage in
   **collaborative efforts** to identify the most pressing **data-related challenges**
   (e.g., scalability, interoperability, quality, usability),
