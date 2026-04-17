@@ -5,7 +5,7 @@ subtitle: Workshop @ **[VLDB 2026](https://vldb.org/2026/)**
 preview_thumbnail: images/logo-type-preview.png
 thumbnail: images/logo-type-vertical.png
 summary: |
-  **[September 4th, 2026 / Boston, USA]**
+  <i class="fa-regular fa-calendar"></i> **September 4th**, <i class="fa-solid fa-location-dot"></i> **Boston, USA**
 
   Community of **biomedical informatics** and **data management** researchers and practitioners who engage in
   **collaborative efforts** to identify the most pressing **data-related challenges**
