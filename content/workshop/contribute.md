@@ -89,13 +89,13 @@ gentle and clear introductions before usage.
 
 #### Lightning Talk Proposal
 
-* **Length:** Up to 2 pages (excluding references).
+* **Length:** Up to 2 pages (including all sections except references).
 * **Novelty:** This type of submission does not have to represent novel work,
 but it should draw a clear connection to the [workshop focus areas](#focus-areas) and advance its overall [vision](#vision).
 
 #### Project Talk Proposal
 
-* **Length:** Up to 4 pages (excluding references).
+* **Length:** Up to 4 pages (including all sections except references).
 * **Novelty:** This submission should present either novel work-in-progress projects or
 visions of novel future projects. Existing projects can be presented as [lightning talks](#lightning-talk-proposal).
 
