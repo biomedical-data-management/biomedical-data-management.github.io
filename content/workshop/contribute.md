@@ -34,10 +34,10 @@ Submit your contribution to [OpenReview](https://openreview.net/group?id=VLDB.or
 
 ### Important dates
 
-* **May 15th, 2026 (11:59 PM AoE):** Submission deadline for [all talk proposals](#submission-guidelines).
-Acceptance notifications will arrive by **June 15th, 2026**.
+* **May ~~15th~~ 25th, 2026 (11:59 PM AoE):** Submission deadline for [all talk proposals](#submission-guidelines).
+Acceptance notifications will arrive by **June ~~15th~~ 25th, 2026**.
 
-* **July 1st, 2026 (11:59 PM AoE):** Submission deadline for [camera-ready](#camera-ready) papers and associated blog posts.
+* **July ~~1st~~ 10th, 2026 (11:59 PM AoE):** Submission deadline for [camera-ready](#camera-ready) papers and associated blog posts.
 
 * **August 15th, 2026 (11:59 PM AoE):** Deadline for [talk merger](#talk-mergers) requests.
 
