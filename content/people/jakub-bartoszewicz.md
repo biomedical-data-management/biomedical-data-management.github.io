@@ -5,7 +5,7 @@ type: person
 groups:
     - reviewer
 thumbnail: images/people/jakub-bartoszewicz.jpg
-title: Jakub Bartoszewic
+title: Jakub Bartoszewicz
 details: Group Leader / Hasso Plattner Institute
 summary: |
   Leads a research group at the intersection of machine learning and computational biology, focusing on interpretable
