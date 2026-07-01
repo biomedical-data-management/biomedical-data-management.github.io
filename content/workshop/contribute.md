@@ -101,9 +101,11 @@ visions of novel future projects. Existing projects can be presented as [lightni
 
 #### Camera Ready
 
-After a submission is accepted, the authors will be given a chance to submit a camera-ready version that
+After a submission is accepted, the authors will be asked to submit a camera-ready version that
 integrates reviewer feedback, includes any final touches, and any supplementary details that the authors
 want to include (up to 2 additional pages).
+
+**Formatting:** Please use LaTeX for your camera-ready submission and use the official [VLDB workshop style file](https://github.com/haixun/haixun.github.io/raw/refs/heads/master/vldb/vldb-workshop-style-master.zip). In `main.tex` make sure to set the `\vldbyear` argument in line 9 to `2026` and the `\vldbworkshop` argument in line 11 to `Biomedical Data Management Systems (BioDMS)`. For convenience, we created this [Overleaf template](https://www.overleaf.com/read/wfnbqzcpdggz#30c04b) which can be copied to a new Overleaf project (File -> Make a copy) that can be edited and saved as PDF.
 
 #### Blog Post
 
@@ -117,10 +119,17 @@ Some specific guidelines:
 * **Novelty:** The text is free to be copied from the original submission or any other content that
 the authors produced in the past. That said, a light reflow would be beneficial to make the post accessible
 to a casual reader.
+* **Language:** The "mind the language gap" guideline here is more important than anywhere. This blog post might
+be the first contact someone has with the presented work, so it's best to keep it very high level, focusing the story
+on the broader impact while mentioning some high-level technical aspects.
 * **Formatting:** The blog post should be submitted as a single `.md` text file written using
 [Markdown syntax](https://www.markdownguide.org/basic-syntax/). Additional  JPEG, PNG, or GIF images can be submitted
-alongside, as well as author info. Blog posts should be submitted as a pull request to the
-[workshop website](https://github.com/biomedical-data-management/biomedical-data-management.github.io).
+alongside, as well as author info. We advise using none or only a few cited references which can be included in
+the bottom of the page under a `## References` header followed by a numbered list of references.
+All files should be bundled as a single `.zip` file and sent by email to [chairs@biodms.org](mailto:chairs@biodms.org).
+
+After submission, we will perform some final formatting steps, create the blog post page and allow the authors to
+give their final say on any additional touches. After that, the blog post will be posted on the workshop website.
 
 ## Collaborating
 
